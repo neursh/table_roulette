@@ -1,6 +1,8 @@
 
-<img align=center src="" />
+<div align=center>
+  <img src="https://github.com/Neurs12/table_roulette/assets/31346263/e572839f-8851-4906-8041-f27e0856339c" />
+</div>
 
-Some sort of a mobile game jam, I've made the first playable version in 12 hours with designing and planning.
+## Inspiration from "Buckshot Roulette"
 
-Inspired by the game "Buckshot Roulette", I've recreate the mechanic and adjust some elements of it.
+Check out their game [here](https://mikeklubnika.itch.io/buckshot-roulette)https://mikeklubnika.itch.io/buckshot-roulette
