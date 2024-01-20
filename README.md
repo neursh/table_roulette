@@ -1,7 +1,8 @@
-
-<div align=center>
-  <img src="https://github.com/Neurs12/table_roulette/assets/31346263/e572839f-8851-4906-8041-f27e0856339c" />
-</div>
+<a href="https://github.com/Neurs12/table_roulette/releases">
+    <div align=center>
+        <img src="https://github.com/Neurs12/table_roulette/assets/31346263/e572839f-8851-4906-8041-f27e0856339c" />
+    </div>
+</a>
 
 ## Inspiration from "Buckshot Roulette"
 
