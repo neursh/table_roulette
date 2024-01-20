@@ -124,9 +124,11 @@ class GameProvider extends ChangeNotifier {
   }
 
   giveRandomItems() {
-    int amount = Random().nextInt(3) + 1;
-    inventory["red"]!.addAll((availableItems..shuffle()).getRange(0, amount));
-    inventory["blue"]!.addAll((availableItems..shuffle()).getRange(0, amount));
+    int amount = Random().nextInt(5) + 1;
+    inventory["red"]!
+        .addAll(List.filled(amount, (availableItems..shuffle()).last));
+    inventory["blue"]!
+        .addAll(List.filled(amount, (availableItems..shuffle()).last));
 
     if (inventory["red"]!.length > 8) {
       inventory["red"] = inventory["red"]!.getRange(0, 8).toList();
