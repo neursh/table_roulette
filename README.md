@@ -6,4 +6,4 @@
 
 ## Inspiration from "Buckshot Roulette"
 
-Check out their game [here](https://mikeklubnika.itch.io/buckshot-roulette)https://mikeklubnika.itch.io/buckshot-roulette
+Check out their game [here](https://mikeklubnika.itch.io/buckshot-roulette)
