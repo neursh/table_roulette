@@ -124,7 +124,7 @@ class GameProvider extends ChangeNotifier {
   }
 
   giveRandomItems() {
-    int amount = Random().nextInt(5) + 1;
+    int amount = Random().nextInt(3) + 1;
     inventory["red"]!.addAll(
         List.generate(amount, (index) => (availableItems..shuffle()).last));
     inventory["blue"]!.addAll(
